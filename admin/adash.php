@@ -120,7 +120,7 @@
 
         <!-- Second layer of buttons -->
         <div class="button-layer">
-            <button class="viewstudents" onclick="location.href='user-dashboard.php'">VIEW STUDENTS</button>
+            <button class="viewstudents" onclick="location.href='aview_enrolled_stud.php'">VIEW STUDENTS</button>
             <button onclick="location.href='admin-dashboard.php'">PENDING REQUEST</button>
             <button onclick="location.href='ahome.php'"></button>
             <button class="logout" onclick="location.href='ulogout.php'">LOG OUT</button>
